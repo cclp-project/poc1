@@ -23,17 +23,17 @@ cCLP token is governed by the Foundation (Fundacion). For the operation of the c
 
 ### Operations Committee 
 
-| Name               | Role           | Address                                    |
-|--------------------|----------------|--------------------------------------------|
-| Jens Hardings Perl | Presidente     |  |
-| Andres Junge       | Vicepresidente | 0x51622D16E8da991D4b012B53Ac8dAC169010832B |
-| Eduardo Lemp       | Secretario     | 0x8AEB2061b93D13e65f7A7434dB084CbfE7085781 |
-| Patricio López     | Tesorero       | 0xDC043A58e92337CECefB76E76Ea2c7F56E9fBF1b |
+| Name               | Role           | Address                                      |
+|--------------------|----------------|----------------------------------------------|
+| Jens Hardings Perl | Presidente     | `0x84B384543440d3308C634a75d59e565672E41Ef8` |
+| Andres Junge       | Vicepresidente | `0x51622D16E8da991D4b012B53Ac8dAC169010832B` |
+| Eduardo Lemp       | Secretario     | `0x8AEB2061b93D13e65f7A7434dB084CbfE7085781` |
+| Patricio López     | Tesorero       | `0xDC043A58e92337CECefB76E76Ea2c7F56E9fBF1b` |
 
 The operations committee executes transactions thru a Gnosis Multisig wallet here:
 
-- Ropsten:
-- Rinkeby: 
-- Kovan: 
-- Mainnet: 
+- Ropsten: [`0x8d22df2734f37f4046ab5a9cfea6bc70e509a249`](https://wallet.gnosis.pm/#/wallet/0x8d22df2734f37f4046ab5a9cfea6bc70e509a249)
+- Rinkeby: [`0x96ec83a953533463ae2f3d2d80c4d10a573e044b`](https://wallet.gnosis.pm/#/wallet/0x96ec83a953533463ae2f3d2d80c4d10a573e044b) 
+- Kovan: [`0x16d42b37f9f5da120dfa46434926c826e80a7aed`](https://wallet.gnosis.pm/#/wallet/0x16d42b37f9f5da120dfa46434926c826e80a7aed)
+- Mainnet: [`0xfc759c2f6e9786e5741847c62f7e86ec73409b0a`](https://wallet.gnosis.pm/#/wallet/0xfc759c2f6e9786e5741847c62f7e86ec73409b0a)
 
